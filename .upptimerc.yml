@@ -1,17 +1,24 @@
 # Change these first
 owner: technoogies # Your GitHub username
 repo: upptime # Your Github repository name
-
+assignees:
+  - technoogies
 # Add your sites here
 sites:
+  - name: Test Control
+    url: https://google.com
   - name: Technoogies
     url: https://technoogies.com
+    maxResponseTime: 15000 #5000 = 5 sec.
+    icon: https://technoogies.com/favicon.ico
   - name: It's For Africa!
     url: https://itsforafrica.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: ComeOnAndFeedMe
+    url: https://comeonandfeedme.com
+  - name: Oy 2 Us
+    url: https://oy2.us
+  - name: TruMemes
+    url: https://trumemes.com
   - name: Secret Site
     url: $SECRET_SITE
 
