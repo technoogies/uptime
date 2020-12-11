@@ -20,8 +20,6 @@ sites:
     url: https://oy2.us
   - name: TruMemes
     url: https://trumemes.com
-  - name: Secret Site
-    url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
