@@ -30,7 +30,7 @@ status-website:
 
   name: Upptime
   introTitle: "**Upptime** monitor and status page, powered entirely by GitHub."
-  introMessage: This is an Uptime status page for **Technoogies** which uses **real-time** data from here: [Github repository](https://github.com/koj-co/upptime)
+  introMessage: This is an Uptime status page for Technoogies.com which uses **real-time** data from here: [Github repository](https://github.com/koj-co/upptime)
 No server required — just GitHub Actions, Issues, Pages, and Open Source. [**Get your own for free**](https://github.com/koj-co/upptime)
 
   navbar:
