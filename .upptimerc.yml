@@ -5,14 +5,15 @@ assignees:
   - technoogies
 # Add your sites here
 sites:
-  - name: Test Control
+  - name: Test Control (Goog)
     url: https://google.com
   - name: Technoogies
     url: https://technoogies.com
     maxResponseTime: 15000 #5000 = 5 sec.
-    icon: https://technoogies.com/favicon.ico
+    icon: https://technoogies.com/ # Or favicon
   - name: It's For Africa!
     url: https://itsforafrica.org
+    icon: https://itsforafrica.org/wp-content/uploads/design-components/icons/ifa-logo-no-bkgnd-no-fill-rev1d_50px.png
   - name: ComeOnAndFeedMe
     url: https://comeonandfeedme.com
   - name: Oy 2 Us
@@ -28,15 +29,24 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://technoogies.com/wp-content/uploads/header-items/technoogies.com-header-rev1c.png
+
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Upptime** monitor and status page, powered entirely by GitHub."
   introMessage: This is an Uptime status page for Technoogies which uses **real-time** data from here: [Github repository](https://github.com/koj-co/upptime)
-No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+No server required — just GitHub Actions, Issues, Pages, and Open Source. [**Get your own for free**](https://github.com/koj-co/upptime)
+
   navbar:
+    - title: Technoogies
+      href: https://technoogies.com
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+  css: "body {
+      opacity: 0.25;
+      background-color: rgba(12, 99, 71, 0.2);
+    }"
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
