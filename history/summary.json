@@ -95,19 +95,17 @@
     "icon": "https://trumemes.com/",
     "slug": "tru-themes",
     "status": "up",
-    "uptime": "1.62%",
-    "uptimeDay": "1.62%",
-    "uptimeWeek": "1.62%",
-    "uptimeMonth": "1.62%",
-    "uptimeYear": "1.62%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3811,
     "timeDay": 3811,
     "timeWeek": 3811,
     "timeMonth": 3811,
     "timeYear": 3811,
-    "dailyMinutesDown": {
-      "2020-12-14": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Oy 2 Us",
