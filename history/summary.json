@@ -60,19 +60,19 @@
     "url": "https://itsforafrica.org",
     "icon": "https://itsforafrica.org/wp-content/uploads/design-components/icons/ifa-logo-no-bkgnd-no-fill-rev1d_50px.png",
     "slug": "it-s-for-africa",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 352,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 359,
     "timeDay": 449,
-    "timeWeek": 352,
-    "timeMonth": 352,
-    "timeYear": 352,
+    "timeWeek": 359,
+    "timeMonth": 359,
+    "timeYear": 359,
     "dailyMinutesDown": {
-      "2020-12-16": 18
+      "2020-12-16": 35
     }
   },
   {
