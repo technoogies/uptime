@@ -20,6 +20,14 @@ sites:
   - name: ComeOnAndFeedMe
     url: https://comeonandfeedme.com
     icon: https://comeonandfeedme.com/wp-content/uploads/assets/logo/coafm-logo-rev2c-5.png
+  - name: It's Us Against Them!
+    url: https://itsusagainstthem.com
+    icon: https://itsusagainstthem.com/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 503
   - name: Tru Themes
     url: https://truthemes.com
     icon: https://truthemes.com/
