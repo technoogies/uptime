@@ -176,17 +176,17 @@
     "url": "https://trumemes.com",
     "icon": "https://trumemes.com/wp-content/uploads/branding/logo-media/tm-logo_social_rev1b50px.png",
     "slug": "tru-memes",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 961,
-    "timeDay": 2478,
-    "timeWeek": 1199,
-    "timeMonth": 957,
-    "timeYear": 961,
+    "time": 994,
+    "timeDay": 3086,
+    "timeWeek": 1592,
+    "timeMonth": 1084,
+    "timeYear": 994,
     "dailyMinutesDown": {}
   }
 ]
