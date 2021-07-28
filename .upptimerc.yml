@@ -15,8 +15,12 @@ sites:
   - name: Swet Inc
     url: https://www.swetinc.com/
     icon: https://www.swetinc.com/wp-content/uploads/design-assets/Swet_Logo_32x33_Rev.2a.png
+    maxResponseTime: 15000 #5000 = 5 sec.
     expectedStatusCodes:
       - 200
+      - 201
+      - 404
+      - 503
 
   - name: It's For Africa!
     url: https://itsforafrica.org
