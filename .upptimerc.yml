@@ -55,6 +55,16 @@ sites:
   - name: Tru Memes
     url: https://trumemes.com
     icon: https://trumemes.com/wp-content/uploads/branding/logo-media/tm-logo_social_rev1b50px.png
+    expectedStatusCodes:
+      - 200
+  - name: Feasty Finds
+    url: https://feastyfinds.com/
+    icon: https://feastyfinds.com/wp-content/uploads/assets/logo/ff-logo-rev2b-tan-w-border_50px.png
+    expectedStatusCodes:
+      - 200
+#      - 201
+#      - 404
+#      - 503
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
